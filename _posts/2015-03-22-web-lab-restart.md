@@ -1,8 +1,8 @@
-----
--layout: default
--title: 重启web开发实验室
--comments: true
-----
+---
+layout: default
+title: 重启web开发实验室
+comments: true
+---
 
 ##重启web开发实验室
 

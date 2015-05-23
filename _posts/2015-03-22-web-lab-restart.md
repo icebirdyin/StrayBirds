@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [zh&en]重启web开发实验室/ Restart Web Development Lab
+title: 【zh&en】重启web开发实验室/ Restart Web Development Lab
 comments: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [zh]从一件小事谈程序设计与实现中的极端情况
+title: 【zh】从一件小事谈程序设计与实现中的极端情况
 comments: true
 ---
 

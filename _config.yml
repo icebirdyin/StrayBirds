@@ -3,4 +3,4 @@ baseurl: /lab
 markdown: redcarpet
 safe: false
 pygments: true
-title: Web开发实验室
+title: Web Development Lab

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 开发乱记
+title: 【zh】开发乱记
 comments: true
 ---
 

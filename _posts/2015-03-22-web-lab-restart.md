@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 重启web开发实验室
+title: [zh&en]重启web开发实验室/ Restart Web Development Lab
 comments: true
 ---
 
@@ -19,3 +19,18 @@ web开发实验室最初发起于2004年，基于QQ群进行的一个松散技�
 重启后的Web开发实验室不再组织QQ群，讨论主要是在这里和核心成员微信群中进行。我们会邀请参与度高的朋友加入微信群。
 
 有事情和问题也可以与我联系，我的邮箱： icebirds@163.com
+
+For a long time searching , I decide to restart my Web Development Lab on github as a Blog . And welcome my old or new friends discuss with me .
+
+Web Development Lab was launched in 2004 . At the first time , it just a QQ chat group . And closed after I married and busy for my own work . It is the 3rd years I was devoced , now I decide to restart it .
+
+The new restarted Web Development Lab was based on Github and focus on these point :
+
+1. Algorithm , data structure , database and so on at the era of cloud computing .
+2. UI/UE research and discover for web and mobile web.
+3. Web development base on Haxe programming language .
+4. Other useful technology for web development , and so on ...
+
+There will be not QQ chat group any more. The dicuss will just in this blog and MicroMSG Group for our core member . We will invite people we intresting here into over MicoMSG Group .
+
+BTW , anybody could contact me with email : icebirds@163.com .

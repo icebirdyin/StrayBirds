@@ -5,7 +5,7 @@ StrayBirds
 
 ## 示例
 
-可以通过访问 [StrayBirds](http://icebirdyin.github.io/lab/) 看到最终
+可以通过访问 [Web开发实验室](http://icebirdyin.github.io/lab/) 看到最终
 的效果，下面是截图:
 
 ![ui-demo](/images/ui_demo.png)
